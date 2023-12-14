@@ -1,6 +1,9 @@
 # Introduction
-Quantum In Row is a game in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column. <br>
-When the players enjoy Quantum move’s “50% probability of appearing chosen color in the same spot or in anther spot when it collapsed”.<br>
+Quantum In Row is a game in which the players choose a color and then
+take turns dropping colored tokens into a six-row, seven-column.
+When the players enjoy Quantum move’s “50% probability of appearing
+chosen color in the same spot and in onther spot and the same for the other player”
+.
 The game become more interesting when they were collapsed.<br>
 
 
