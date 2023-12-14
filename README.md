@@ -33,3 +33,6 @@ this is conisedered a round every round there will be measurment (collapse)  <br
 
 as you can see in this pictures all the blue colors is quantum move and all has 50% chance of appearing after collapse in each color and the green did not have advantages of the winning
 
+<br>
+<img width="498" alt="Screenshot 2023-12-15 at 12 00 57 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/3167b07f-7ee5-41ae-882b-035732ab0057">
+<img width="498" alt="Screenshot 2023-12-15 at 12 07 53 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/b8ad175b-2ffc-49ea-af02-08fa26e8464c">
