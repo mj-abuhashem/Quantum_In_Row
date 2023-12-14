@@ -15,11 +15,11 @@ The game become more interesting when they were collapsed.
 <img width="393" alt="Screenshot 2023-12-14 at 11 29 29 PM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/d0a078c3-1e49-4796-b893-c56d906b1203">
 
 # rules
-2 Players./n
-1 quantum Colors (blue)/n
-Wins 4 same dark color in a row, in column, or in diagonal./n
-the added feature let you enter two superpositions that has 50% probability of appearing in either of the two colors and the same for the component /n
-1 classical play for each player then 2 quantum play for each player/n
-this is conisedered a round every round there will be measurment (collapse)/n
+2 Players.
+1 quantum Colors (blue)
+Wins 4 same dark color in a row, in column, or in diagonal.
+the added feature let you enter two superpositions that has 50% probability of appearing in either of the two colors and the same for the component 
+1 classical play for each player then 2 quantum play for each player
+this is conisedered a round every round there will be measurment (collapse)
 
 
