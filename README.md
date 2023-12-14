@@ -5,6 +5,8 @@ The game become more interesting when they were collapsed.
 
 
 <img width="1937" alt="image" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/d23dbb2e-f0df-4357-9a4f-8204558f3212">
+
+
 The game become more interesting when they were collapsed.
 # How To Play
 
