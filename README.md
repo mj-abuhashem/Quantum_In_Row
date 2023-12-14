@@ -18,4 +18,6 @@ Wins 4 same dark color in a row, in column, or in diagonal.
 the added feature let you enter two superpositions that has 50% probability of appearing in either of the two colors and the same for the component 
 1 classical play for each player then 2 quantum play for each player
 this is conisedered a round every round there will be measurment (collapse)
+
+
 <img width="2279" alt="image" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/6d2b1484-725b-4400-b84a-a56e4488c25a">
