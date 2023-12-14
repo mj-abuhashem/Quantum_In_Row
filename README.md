@@ -26,7 +26,7 @@ the added feature let you enter two superpositions that has 50% probability of a
 1 classical play for each player then 2 quantum play for each player  <br>
 this is conisedered a round every round there will be measurment (collapse)  <br>
 
-# sample of the game
+# Sample of the game
 
 <img width="498" alt="Screenshot 2023-12-15 at 12 00 57 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/3167b07f-7ee5-41ae-882b-035732ab0057">
 <img width="494" alt="Screenshot 2023-12-15 at 12 05 23 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/ee524d7b-87f6-4961-8c94-900b51d5c783">
@@ -36,3 +36,5 @@ as you can see in this pictures all the blue colors is quantum move and all has 
 <br>
 <img width="498" alt="Screenshot 2023-12-15 at 12 00 57 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/3167b07f-7ee5-41ae-882b-035732ab0057">
 <img width="498" alt="Screenshot 2023-12-15 at 12 07 53 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/b8ad175b-2ffc-49ea-af02-08fa26e8464c">
+
+and here the green now has advantage of the Quantum chance and this is the interesting part of the game
