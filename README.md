@@ -8,11 +8,11 @@ The game become more interesting when they were collapsed.<br>
 
 
 The game become more interesting when they were collapsed.<br>
-# Result Behind It
-# Quantum Circuit<br>
+# Quantum Behind It
+Quantum Circuit<br>
 <img width="232" alt="Screenshot 2023-12-14 at 11 29 15 PM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/f52db8b2-322f-4021-a4b7-28e107b6b639"><br>
 <br>
-# Histogram<br>
+Histogram<br>
 <img width="393" alt="Screenshot 2023-12-14 at 11 29 29 PM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/d0a078c3-1e49-4796-b893-c56d906b1203"><br>
 
 # Rules
