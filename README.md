@@ -1,4 +1,4 @@
-# introduction<br>
+# Introduction
 Quantum In Row is a game in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column. <br>
 When the players enjoy Quantum move’s “50% probability of appearing chosen color in the same spot or in anther spot when it collapsed”.<br>
 The game become more interesting when they were collapsed.<br>
@@ -8,13 +8,13 @@ The game become more interesting when they were collapsed.<br>
 
 
 The game become more interesting when they were collapsed.<br>
-# math behind it
+# Result Behind It
 
 <img width="232" alt="Screenshot 2023-12-14 at 11 29 15 PM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/f52db8b2-322f-4021-a4b7-28e107b6b639"><br>
 <br>
 <img width="393" alt="Screenshot 2023-12-14 at 11 29 29 PM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/d0a078c3-1e49-4796-b893-c56d906b1203"><br>
 
-# rules
+# Rules
 2 Players.  <br>
 1 quantum Colors (blue)  <br>
 Wins 4 same dark color in a row, in column, or in diagonal.  <br>
