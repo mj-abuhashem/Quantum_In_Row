@@ -71,13 +71,14 @@ export class Board {
       if (gate.charAt(i) === "0") {
         const posRemove = this.superPositions[i][1];
         this.updateColour(posRemove.R, posRemove.C);
-
+        if (this.board[posRemove.R][posRemove.C].includes(BROWN_MARKER)){this.board[posRemove.R][posRemove.C] = GREEN_MARKER}else{this.board[posRemove.R][posRemove.C] = BROWN_MARKER}
 
         const posKeep = this.superPositions[i][0];
         this.updateColour(posKeep.R, posKeep.C);
       } else {
         const posRemove = this.superPositions[i][0];
         this.updateColour(posRemove.R, posRemove.C);
+        if (this.board[posRemove.R][posRemove.C].includes(BROWN_MARKER)){this.board[posRemove.R][posRemove.C] = GREEN_MARKER}else{this.board[posRemove.R][posRemove.C] = BROWN_MARKER}
 
         const posKeep = this.superPositions[i][1];
         this.updateColour(posKeep.R, posKeep.C);
