@@ -38,3 +38,9 @@ as you can see in this pictures all the blue colors is quantum move and all has 
 <img width="498" alt="Screenshot 2023-12-15 at 12 07 53 AM" src="https://github.com/mj-abuhashem/Quantum_In_Row/assets/124375638/b8ad175b-2ffc-49ea-af02-08fa26e8464c">
 
 and here the green now has advantage of the Quantum chance and this is the interesting part of the game
+
+
+# contributer 
+rayan alsharikh
+hajr
+maha
